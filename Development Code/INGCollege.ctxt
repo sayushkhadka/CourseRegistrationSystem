@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=INGCollege
+comment0.text=\r\nINGCollege\ class\ \r\nImplements\ ActionListener\r\n
+comment1.params=
+comment1.target=void\ mainGUI()
+comment2.params=
+comment2.target=void\ academicCourseGUI()
+comment2.text=\r\n\ GUI\r\n\ for\ the\ Academic\ Course\r\n
+comment3.params=
+comment3.target=void\ nonAcademicCourseGUI()
+comment3.text=\r\n\ GUI\r\n\ For\ the\ Non-Academic\ Course\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=\ \r\n\ actionperformed\ method\r\n\ for\ the\ functionality\ of\ the\ buttons\ \r\n
+numComments=6
